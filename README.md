@@ -22,7 +22,7 @@ An UI clone of Microsoft official website made for study purposes.
 
 ```bash
 # clone this repository
-git clone 
+git clone https://github.com/fredcoutinho52/microsoft-ui-clone.git
 
 # install the dependencies
 npm install / yarn install
