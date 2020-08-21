@@ -1,6 +1,6 @@
 # Microsoft UI Clone
 
-An UI clone of Microsoft official website.
+An UI clone of Microsoft official website made for study purposes.
 
 ## Made with
 
@@ -11,7 +11,12 @@ An UI clone of Microsoft official website.
 
 ## Screenshots
 
-
+<center>
+<span>
+<img src="screenshots/screenshot-1.PNG">
+<img src="screenshots/screenshot-2.PNG">
+</span>
+</center>
 
 ## How to use
 
