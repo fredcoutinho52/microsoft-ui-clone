@@ -33,3 +33,7 @@ yarn install
 ```bash
 yarn start
 ```
+
+## License
+
+[MIT License](https://opensource.org/licenses/MIT)
