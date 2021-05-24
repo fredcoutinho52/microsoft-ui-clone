@@ -4,8 +4,7 @@ An UI clone of Microsoft official website made for study purposes.
 
 ## Made with
 
-* [ReactJS](https://reactjs.org/)
-* [Styled Components](https://styled-components.com/)
+* [React](https://reactjs.org/)
 * [Typescript](https://www.typescriptlang.org/)
 * [Yarn](https://yarnpkg.com/)
 
