@@ -19,13 +19,17 @@ An UI clone of Microsoft official website made for study purposes.
 
 ## How to use
 
+#### Clone this repository
 ```bash
-# clone this repository
 git clone https://github.com/fredcoutinho52/microsoft-ui-clone.git
+```
 
-# install the dependencies
-npm install / yarn install
+#### Install the dependencies
+```bash
+yarn install
+```
 
-# run the app
-npm start / yarn start
+##### Run the app
+```bash
+yarn start
 ```
